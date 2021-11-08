@@ -46,3 +46,21 @@ Labels are used to track the lifecycle and status of a pull request. Using the c
 ### Commenting on Pull Requests
 
 Once a pull request is submitted, multiple committers may comment on it and provide edits or suggestions which you can commit directly. You can also add line comments. Take a look at [Commenting on pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request) for more details.
+
+### Reviewing Pull Requests
+
+Once a pull request has been submitted and the correct label assigned, the review process begins. This includes aligning the content with the Style Guide, validating processes, and tagging any other relevant committers. The community team and tech team will do the reviewing of the pull requests and will inform the owner in accordance with the respective results.
+
+Once the review process is complete, the change will be either merged into master and pushed immediately or merged into the release branch and pushed in alignment with the release. The branch is then deleted.
+
+Any merged PRs with an **Editor Review** or **Reviews Complete** label will be processed by the editor reviewer.
+
+## Building and Validating
+
+If you've downloaded the repository and are editing Mattermost documentation on your local machine, you can generate the HTML files from markdown in the directory. You can review your changes before you commit them or create pull requests.
+
+Clone the repository by applyiing the following code if you are using git:
+
+```sh
+git clone https://github.com/Sawo-Community/100-Days-of-Feature-Request.git
+```
