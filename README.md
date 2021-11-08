@@ -28,4 +28,19 @@ You can contribute to the 100 Days of Feedback repository by forking the reposit
 
 If this is the first time you're contributing, follow these steps: 
 1. Select **Fork** in the top-right corner of the GitHub page to fork the repository.
-2. 
+2. Create a folder with an appropiate title by clicking on the "Add file" button and then clicking on "Create new file".
+3. You will see the editing interface once you click on the "create new file" option, which will help you add contents in the file be it of any extensions.
+
+### Creating Pull Requests
+
+1. When you're ready to submit your changes, add a descriptive title and comments to summarize the changes made.
+2. Select **Create a new branch for this commit and start a pull request**.
+3. Check the **Propose file change** button.
+4. Scroll down to compare changes with the original document.
+5. Select **Create pull request**. 
+
+### Using Labels
+
+
+
+
