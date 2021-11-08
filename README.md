@@ -22,3 +22,10 @@ This is the official repository of 100 Days of Feature Request.
 
 ### Getting Started
 
+You can contribute to the 100 Days of Feedback repository by forking the repository in your GitHub account. Make the valuable changes in the repository and after that, make a pull request. Our community team will prioritize the pull requests on a first come first serve basis.
+
+### Editing
+
+If this is the first time you're contributing, follow these steps: 
+1. Select **Fork** in the top-right corner of the GitHub page to fork the repository.
+2. 
