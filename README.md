@@ -41,6 +41,6 @@ If this is the first time you're contributing, follow these steps:
 
 ### Using Labels
 
+Labels are used to track the lifecycle and status of a pull request. Using the correct labels helps with managing workflows and ensuring that content is edited, merged and released at the correct time
 
-
-
+### Commenting on Pull Requests
