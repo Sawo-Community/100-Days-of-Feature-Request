@@ -59,7 +59,7 @@ Any merged PRs with an **Editor Review** or **Reviews Complete** label will be p
 
 If you've downloaded the repository and are editing Mattermost documentation on your local machine, you can generate the HTML files from markdown in the directory. You can review your changes before you commit them or create pull requests.
 
-Clone the repository by applyiing the following code if you are using git:
+Clone the repository by applying the following code if you are using git:
 
 ```sh
 git clone https://github.com/Sawo-Community/100-Days-of-Feature-Request.git
