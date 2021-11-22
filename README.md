@@ -64,3 +64,4 @@ Clone the repository by applying the following code if you are using git:
 ```sh
 git clone https://github.com/Sawo-Community/100-Days-of-Feature-Request.git
 ```
+## About the Brand
